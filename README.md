@@ -1,0 +1,2 @@
+# projetos_de_machine_learning_presente_para_videogames
+Este projeto supersimples que utiliza uma base de dados com 92488 jogadores de vários países do mundo. Foi desenvolvido com Machine Learning (Aprendizado de Máquina) para ajudar a decidir qual tipo de videogames dar de presente relacionado a idade e sexo do jogador. Mas também pode ser usado como referência, para que quer ter uma Idea de como iniciar a mexer com Machine Learning.
